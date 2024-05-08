@@ -1,0 +1,229 @@
+AeroBlender;aeroblender-1.20.1-1.0.1-neoforge;https://www.curseforge.com/projects/879879
+Aether Delight (A Farmer's Delight Add-on);aether_delight_1.0.0_forge_1.20.1;https://www.curseforge.com/projects/961108
+The Aether;aether-1.20.1-1.4.2-neoforge;https://www.curseforge.com/projects/255308
+AI Improvements;AI-Improvements-1.20-0.5.2;https://www.curseforge.com/projects/233019
+Alex's Caves;alexscaves-1.1.4;https://www.curseforge.com/projects/924854
+Cloud Storage;cloudstorage-1.4.0-1.20;https://www.curseforge.com/projects/606618
+Alternate Current;alternate_current-mc1.20-1.7.0;https://www.curseforge.com/projects/548115
+Ambient Environment;AmbientEnvironment-forge-1.20.1-11.0.0.1;https://www.curseforge.com/projects/320163
+AmbientSounds 5;AmbientSounds_FORGE_v5.3.9_mc1.20.1;https://www.curseforge.com/projects/254284
+Apothic Attributes (AttributesLib);ApothicAttributes-1.20.1-1.3.4;https://www.curseforge.com/projects/898963
+AppleSkin;appleskin-forge-mc1.20.1-2.5.1;https://www.curseforge.com/projects/248787
+Aquaculture Delight (A Farmer's Delight Add-on);aquaculture_delight_1.0.0_forge_1.20.1;https://www.curseforge.com/projects/961988
+Aquaculture 2;Aquaculture-1.20.1-2.5.1;https://www.curseforge.com/projects/60028
+Architectury API (Fabric/Forge/NeoForge);architectury-9.2.14-forge;https://www.curseforge.com/projects/419699
+Ars Nouveau;ars_nouveau-1.20.1-4.10.0-all;https://www.curseforge.com/projects/401955
+Artifacts;artifacts-forge-9.5.4;https://www.curseforge.com/projects/312353
+Ash API;ash_api-forge-3.0.2+1.20.1;https://www.curseforge.com/projects/838498
+AttributeFix;AttributeFix-Forge-1.20.1-21.0.4;https://www.curseforge.com/projects/280510
+Balm (Forge Edition);balm-forge-1.20.1-7.2.2;https://www.curseforge.com/projects/531761
+Better Advancements;BetterAdvancements-1.20.1-0.3.2.162;https://www.curseforge.com/projects/272515
+Better chunk loading[Forge/Fabric];betterchunkloading-1.20.1-4.2;https://www.curseforge.com/projects/899487
+BetterF3;BetterF3-7.0.2-Forge-1.20.1;https://www.curseforge.com/projects/401648
+Biomancy;biomancy-forge-1.20.1-2.4.4.0;https://www.curseforge.com/projects/492939
+Biome Music[Forge/Fabric];biomemusic-1.20.1-2.3;https://www.curseforge.com/projects/840873
+Biome Particle Weather;BiomeParticleWeather-v4.1.0-1.20.1-Forge;https://www.curseforge.com/projects/575109
+Blue Skies;blue_skies-1.20.1-1.3.31;https://www.curseforge.com/projects/312918
+Blueprint;blueprint-1.20.1-7.1.0;https://www.curseforge.com/projects/382216
+Boat Item View (Forge);Boat-Item-View-Forge-1.20.1-0.0.5;https://www.curseforge.com/projects/482444
+Bookshelf;Bookshelf-Forge-1.20.1-20.1.10;https://www.curseforge.com/projects/228525
+Born in Chaos;born_in_chaos_[Forge]1.20.1_1.2;https://www.curseforge.com/projects/686437
+Bosses of Mass Destruction [Forge | NeoForge];BOMD-Forge-1.20.1-1.1.2;https://www.curseforge.com/projects/941573
+Breezy;breezy-1.20.1-1.1.1;https://www.curseforge.com/projects/690628
+Building Wands;BuildingWands-mc1.20.1-2.6.9-release;https://www.curseforge.com/projects/363392
+Catalogue;catalogue-forge-1.20.1-1.8.0;https://www.curseforge.com/projects/459701
+Cave Dust;cavedust-2.0.4-1.20.1-forge;https://www.curseforge.com/projects/594750
+CERBON's API [Forge | Fabric | NeoForge];CerbonsAPI-Forge-1.20.1-1.1.0;https://www.curseforge.com/projects/955605
+Charm of Undying (Fabric/Forge/Quilt);charmofundying-forge-6.5.0+1.20.1;https://www.curseforge.com/projects/316873
+Chat Heads;chat_heads-0.10.33-forge-1.20;https://www.curseforge.com/projects/407206
+Chunk Sending[Forge/Fabric];chunksending-1.20.1-2.8;https://www.curseforge.com/projects/831663
+Citadel;citadel-2.5.4-1.20.1;https://www.curseforge.com/projects/331936
+Clean Swing Through Grass;cleanswing-1.20-1.5;https://www.curseforge.com/projects/915308
+Clean Tooltips;clean_tooltips-1.0-forge-1.20.1;https://www.curseforge.com/projects/855017
+Clickable advancements[Forge/Fabric];clickadv-1.20.1-3.8;https://www.curseforge.com/projects/511733
+Client Crafting;clientcrafting-1.20.1-1.8;https://www.curseforge.com/projects/888790
+Cloth Config API (Fabric/Forge/NeoForge);cloth-config-11.1.118-forge;https://www.curseforge.com/projects/348521
+Collective;collective-1.20.1-7.56;https://www.curseforge.com/projects/342584
+Comforts (Fabric/Forge/Quilt);comforts-forge-6.3.5+1.20.1;https://www.curseforge.com/projects/276951
+Configured;configured-forge-1.20.1-2.2.3;https://www.curseforge.com/projects/457570
+Controlling;Controlling-forge-1.20.1-12.0.2;https://www.curseforge.com/projects/250398
+CorgiLib;CorgiLib-forge-1.20.1-4.0.1.1;https://www.curseforge.com/projects/693313
+Cosmetic Armor Reworked;cosmeticarmorreworked-1.20.1-v1a;https://www.curseforge.com/projects/237307
+CosmeticArmours;CosmeticArmours - 1.3.6.2 - 1.20.1 - Forge;https://www.curseforge.com/projects/630406
+Crafting Tweaks;craftingtweaks-forge-1.20.1-18.2.3;https://www.curseforge.com/projects/233071
+CraftTweaker;CraftTweaker-forge-1.20.1-14.0.38;https://www.curseforge.com/projects/239197
+CreativeCore;CreativeCore_FORGE_v2.11.27_mc1.20.1;https://www.curseforge.com/projects/257814
+CullLessLeaves Reforged (Unofficial);CullLessLeaves-Reforged-1.20.1-1.0.5;https://www.curseforge.com/projects/840788
+Cupboard;cupboard-1.20.1-2.6;https://www.curseforge.com/projects/326652
+Curios API (Forge/NeoForge);curios-forge-5.9.0+1.20.1;https://www.curseforge.com/projects/309927
+Deep Aether;deep_aether-1.20.1-1.0.3;https://www.curseforge.com/projects/852465
+Deeper Oceans;deeper-oceans-mc1.20-v1.0.1a;https://www.curseforge.com/projects/714177
+Default Options;defaultoptions-forge-1.20-18.0.1;https://www.curseforge.com/projects/232131
+Dimensional Sync Fixes;dimensionalsycnfixes-1.20.1-0.0.1;https://www.curseforge.com/projects/829521
+[Let's Do] API ;letsdo-API-forge-1.2.11-forge;https://www.curseforge.com/projects/864599
+Drippy Loading Screen;drippyloadingscreen_forge_3.0.1_MC_1.20.1;https://www.curseforge.com/projects/511770
+Dungeon Now Loading 1%;Dungeon Now Loading-forge-1.20.1-1.3;https://www.curseforge.com/projects/638535
+Easy Anvils [Forge & Fabric];EasyAnvils-v8.0.2-1.20.1-Forge;https://www.curseforge.com/projects/682567
+Enchantment Descriptions;EnchantmentDescriptions-Forge-1.20.1-17.0.14;https://www.curseforge.com/projects/250419
+Ender Trigon;endertrigon-1.20.1-1.0;https://www.curseforge.com/projects/662563
+End Remastered;endrem_forge-5.2.3-R-1.20.X;https://www.curseforge.com/projects/404183
+Enhanced AI;EnhancedAI-2.4.4-mc1.20.1;https://www.curseforge.com/projects/515276
+Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons;Enhanced_Celestials-forge-1.20.1-5.0.0.4;https://www.curseforge.com/projects/438447
+Enlightend;enlightend-5.0.14-1.20.1;https://www.curseforge.com/projects/502786
+Entity Model Features [Fabric & Forge];entity_model_features_forge_1.20.1-2.0.2;https://www.curseforge.com/projects/844662
+Entity Texture Features - [Fabric & Forge];entity_texture_features_forge_1.20.1-6.0.1;https://www.curseforge.com/projects/568563
+Every Compat (Wood Good);everycomp-1.20-2.6.55;https://www.curseforge.com/projects/628539
+Exposure;exposure-1.20.1-1.5.1-forge;https://www.curseforge.com/projects/871755
+Extra Compat;extra_compat-1.5.0;https://www.curseforge.com/projects/923005
+FallingTree (Forge&Fabric);FallingTree-1.20.1-4.3.4;https://www.curseforge.com/projects/349559
+FancyMenu;fancymenu_forge_3.2.2_MC_1.20.1;https://www.curseforge.com/projects/367706
+Farmer's Delight;FarmersDelight-1.20.1-1.2.4;https://www.curseforge.com/projects/398521
+Farsight [Forge];farsight-1.20.1-3.6;https://www.curseforge.com/projects/495693
+Fast Async World Save[Forge/Fabric];fastasyncworldsave-1.20.1-2.0;https://www.curseforge.com/projects/951499
+Fast Leaf Decay;FastLeafDecay-31;https://www.curseforge.com/projects/230976
+Fastload;Fastload-Reforged-mc1.20.1-3.4.0;https://www.curseforge.com/projects/630620
+FastSuite;FastSuite-1.20.1-5.0.1;https://www.curseforge.com/projects/475117
+FerriteCore ((Neo)Forge);ferritecore-6.0.1-forge;https://www.curseforge.com/projects/429235
+fix GPU memory leak[Forge/Fabric];gpumemleakfix-1.20.1-1.8;https://www.curseforge.com/projects/882495
+FPS Reducer;FpsReducer2-forge-1.20-2.5;https://www.curseforge.com/projects/280294
+FTB Library (Forge);ftb-library-forge-2001.2.1;https://www.curseforge.com/projects/404465
+FTB Quests (Forge);ftb-quests-forge-2001.4.2;https://www.curseforge.com/projects/289412
+FTB Teams (Forge);ftb-teams-forge-2001.3.0;https://www.curseforge.com/projects/404468
+FTB XMod Compat;ftb-xmod-compat-forge-2.1.1;https://www.curseforge.com/projects/889915
+Fusion (Connected Textures);fusion-1.1.1-forge-mc1.20.1;https://www.curseforge.com/projects/854949
+Game Stages;GameStages-Forge-1.20.1-15.0.1;https://www.curseforge.com/projects/268655
+Gateways to Eternity;GatewaysToEternity-1.20.1-4.2.4;https://www.curseforge.com/projects/417802
+Iris/Oculus & GeckoLib Compat;GeckoLibOculusCompat-Forge-1.0.1;https://www.curseforge.com/projects/959388
+GeckoLib;geckolib-forge-1.20.1-4.4.4;https://www.curseforge.com/projects/388172
+Geophilic Reforged – Biome Additions;GeophilicReforged-v1.2.0;https://www.curseforge.com/projects/936730
+GraveStone Mod;gravestone-forge-1.20.1-1.0.15;https://www.curseforge.com/projects/238551
+Guidebook;Guidebook-1.20.1-3.8.2;https://www.curseforge.com/projects/253874
+Hang Glider [Forge & Fabric];HangGlider-v8.0.1-1.20.1-Forge;https://www.curseforge.com/projects/852668
+Harder Branch Mining;harderbranchmining-1.20-46.0.14;https://www.curseforge.com/projects/361427
+Hourglass;hourglass-1.20-1.2.1.1;https://www.curseforge.com/projects/511172
+IguanaTweaks Reborn;IguanaTweaksReborn-3.9.7-mc1.20.1;https://www.curseforge.com/projects/285690
+ImmediatelyFast;ImmediatelyFast-Forge-1.2.14+1.20.4;https://www.curseforge.com/projects/686911
+In Control!;incontrol-1.20-9.2.5;https://www.curseforge.com/projects/257356
+InsaneLib;InsaneLib-1.13.4-mc1.20.1;https://www.curseforge.com/projects/465109
+Inventory Essentials;inventoryessentials-forge-1.20.1-8.2.3;https://www.curseforge.com/projects/368825
+Inventory Sorter;inventorysorter-1.20.1-23.0.1;https://www.curseforge.com/projects/240633
+Item Stages;ItemStages-Forge-1.20.1-8.0.3;https://www.curseforge.com/projects/280316
+Jade Addons (Forge);JadeAddons-1.20.1-forge-5.2.2;https://www.curseforge.com/projects/583345
+Jade;Jade-1.20.1-forge-11.8.0;https://www.curseforge.com/projects/324717
+Just Enough Items (JEI);jei-1.20.1-forge-15.3.0.4;https://www.curseforge.com/projects/238222
+JEITweaker;JeiTweaker-forge-1.20.1-8.0.6;https://www.curseforge.com/projects/368718
+Joy of Painting;xercapaint-1.20.1-1.0.0;https://www.curseforge.com/projects/350727
+Just Enough Effect Descriptions (JEED);jeed-1.20-2.1.12;https://www.curseforge.com/projects/532286
+Just Enough Professions (JEP);JustEnoughProfessions-forge-1.20.1-3.0.1;https://www.curseforge.com/projects/417645
+Just Enough Resources (JER);JustEnoughResources-1.20.1-1.4.0.247;https://www.curseforge.com/projects/240630
+Just Player Heads;justplayerheads-1.20.1-4.0;https://www.curseforge.com/projects/303441
+Just Zoom [Forge];justzoom_forge_1.0.2_MC_1.20.1;https://www.curseforge.com/projects/561885
+Just Enough Breeding (JEBr);justenoughbreeding-forge-1.20.x-1.2.1;https://www.curseforge.com/projects/899386
+Konkrete [Forge];konkrete_forge_1.8.0_MC_1.20-1.20.1;https://www.curseforge.com/projects/410295
+Krypton Reforged;KryptonReforged-0.2.3;https://www.curseforge.com/projects/549394
+KubeJS Ars Nouveau;kubejsarsnouveau-1.2.2;https://www.curseforge.com/projects/833926
+KubeJS;kubejs-forge-2001.6.5-build.7;https://www.curseforge.com/projects/238086
+Storage Labels;labels-1.20-1.20.1;https://www.curseforge.com/projects/688223
+L_Ender 's Cataclysm;L_Enders_Cataclysm-1.99.2 -1.20.1;https://www.curseforge.com/projects/551586
+[Let's Do] Brewery;letsdo-brewery-forge-1.1.8;https://www.curseforge.com/projects/971636
+[Let's Do] Vinery;letsdo-vinery-forge-1.4.19;https://www.curseforge.com/projects/704465
+Lionfish API;lionfishapi-1.8;https://www.curseforge.com/projects/1001614
+Loot Journal;loot_journal-3.1.1;https://www.curseforge.com/projects/700723
+LootJS: KubeJS Addon;lootjs-forge-1.20.1-2.11.0;https://www.curseforge.com/projects/570630
+Lootr (Forge & NeoForge);lootr-forge-1.20-0.7.33.83;https://www.curseforge.com/projects/361276
+Manure;manure-1.20.1-3.3;https://www.curseforge.com/projects/699577
+Map Atlases [Forge];map_atlases-1.20-6.0.6;https://www.curseforge.com/projects/519759
+Max Health Fix;MaxHealthFix-Forge-1.20.1-12.0.2;https://www.curseforge.com/projects/492246
+Melody;melody_forge_1.0.3_MC_1.20.1-1.20.4;https://www.curseforge.com/projects/938643
+Mirabilis: Biome Overhaul;mirabilis-1.1.1-1.20.1;https://www.curseforge.com/projects/560808
+MmmMmmMmmMmm (Target Dummy);dummmmmmy-1.20-1.8.17b;https://www.curseforge.com/projects/225738
+Mo Glass;Mo-Glass-1.7.1-MC1.20.1-Forge;https://www.curseforge.com/projects/353426
+Mob Stage Reborn;mobgamestages-1.20.1-0.1;https://www.curseforge.com/projects/873965
+Mobs Properties Randomness;MobsPropertiesRandomness-4.10.5-mc1.20.1;https://www.curseforge.com/projects/285012
+Mod Name Tooltip;modnametooltip-1.20.1-1.20.0;https://www.curseforge.com/projects/238747
+Model Gap Fix;modelfix-1.15;https://www.curseforge.com/projects/676136
+ModernFix;modernfix-forge-5.17.0+mc1.20.1;https://www.curseforge.com/projects/790626
+MoreJS;morejs-forge-1.20.1-0.10.0;https://www.curseforge.com/projects/666198
+Mystical Oak Tree;mysticaloaktree-1.20-1.11;https://www.curseforge.com/projects/691002
+In-game NBTEdit Reborn;nbtedit-forge-5.0.3;https://www.curseforge.com/projects/678133
+Neko's Enchanted Books;NekosEnchantedBooks-1.20.1-1.8.0;https://www.curseforge.com/projects/441114
+NetherPortalFix;netherportalfix-forge-1.20-13.0.1;https://www.curseforge.com/projects/241160
+Nether's Delight;nethersdelight-1.20.1-4.0;https://www.curseforge.com/projects/496394
+Noisium;noisium-forge-2.0.3+mc1.20-1.20.1;https://www.curseforge.com/projects/930207
+Not Enough Animations;notenoughanimations-forge-1.7.3-mc1.20.1;https://www.curseforge.com/projects/433760
+Not Enough Crashes (Forge);notenoughcrashes-4.4.7+1.20.1-forge;https://www.curseforge.com/projects/442354
+Aquamirae (Forge);aquamirae-6.API15;https://www.curseforge.com/projects/536254
+Obscure API (Forge);obscure_api-15;https://www.curseforge.com/projects/638417
+Oculus;oculus-mc1.20.1-1.7.0;https://www.curseforge.com/projects/581495
+Overloaded Armor Bar;overloadedarmorbar-1.20.1-1;https://www.curseforge.com/projects/314002
+Paintings ++;Paintings-forge-1.20.1-11.0.0.2;https://www.curseforge.com/projects/252042
+Paxi (Forge);Paxi-1.20-Forge-4.0;https://www.curseforge.com/projects/515708
+Photon;photon-forge-1.20.1-1.0.7.a;https://www.curseforge.com/projects/871522
+Placebo;Placebo-1.20.1-8.6.1;https://www.curseforge.com/projects/283644
+Player Stages;playerstages-1.20.1-V0.8.2;https://www.curseforge.com/projects/899878
+Polymorph (Fabric/Forge/Quilt);polymorph-forge-0.49.3+1.20.1;https://www.curseforge.com/projects/388800
+ProbeJS;probejs-6.0.1-forge;https://www.curseforge.com/projects/585406
+Puzzles Lib [Forge & Fabric];PuzzlesLib-v8.1.18-1.20.1-Forge;https://www.curseforge.com/projects/495476
+Quark;Quark-4.0-441;https://www.curseforge.com/projects/243121
+Quests Additions (Forge);questsadditions-1.4.3a;https://www.curseforge.com/projects/580129
+Radium Reforged;radium-mc1.20.1-0.12.3+git.50c5c33;https://www.curseforge.com/projects/570017
+Raided;Raided-1.20.1-0.1.4;https://www.curseforge.com/projects/580942
+Rats;Rats-1.20.1-8.1.2;https://www.curseforge.com/projects/323596
+Re-Dimension Stages;redimstages-1.0.0;https://www.curseforge.com/projects/972469
+Ready Player Fun [Forge / Fabric];readyplayerfun-1.20.1-2.8.0.1-FORGE;https://www.curseforge.com/projects/322036
+Realm RPG: Imps & Demons;realmrpg_imps_and_demons_0.9.0_forge_1.20.1;https://www.curseforge.com/projects/920662
+Rechiseled;rechiseled-1.1.6-forge-mc1.20;https://www.curseforge.com/projects/558998
+Recipe Essentials[Forge/Fabric];recipeessentials-1.20.1-3.4;https://www.curseforge.com/projects/907856
+Recipe Stages;RecipeStages-8.0.0.2;https://www.curseforge.com/projects/280554
+Redirector [Modern];redirector-5.0.0;https://www.curseforge.com/projects/877289
+Rhino;rhino-forge-2001.2.2-build.18;https://www.curseforge.com/projects/416294
+RightClickHarvest;right-click-harvest-3.2.3+1.20.1-forge;https://www.curseforge.com/projects/452834
+River Redux;riverredux-0.3.1;https://www.curseforge.com/projects/380548
+Scholar;scholar-1.20.1-1.0.0-forge;https://www.curseforge.com/projects/961802
+Searchables;Searchables-forge-1.20.1-1.0.3;https://www.curseforge.com/projects/858542
+SeasonHUD;seasonhud-forge-1.20.1-1.7.19;https://www.curseforge.com/projects/690971
+Moonlight Lib;moonlight-1.20-2.11.17-forge;https://www.curseforge.com/projects/499980
+Serene Seasons Fix;sereneseasonfix-1.20.1-1.0.8;https://www.curseforge.com/projects/650658
+Serene Seasons;SereneSeasons-1.20.1-9.0.0.46;https://www.curseforge.com/projects/291874
+Small Ships;smallships-forge-1.20.1-2.0.0-b1.2;https://www.curseforge.com/projects/450659
+Server Performance - Smooth Chunk Save[Forge/Fabric];smoothchunk-1.20.1-3.6;https://www.curseforge.com/projects/582327
+Spawn;spawn-1.0.2-forge;https://www.curseforge.com/projects/935694
+Spice of Life Onion;SoLOnion_FORGE_v1.2.6_mc1.20.1;https://www.curseforge.com/projects/878047
+Storage Drawers;storagedrawers-1.20.1-12.0.3;https://www.curseforge.com/projects/223852
+Structure Essentials[Forge/Fabric];structureessentials-1.20.1-3.3;https://www.curseforge.com/projects/832882
+Structure Gel API;structure_gel-1.20.1-2.16.2;https://www.curseforge.com/projects/378802
+Suggestion Provider Fix;SuggestionProviderFix-1.20.1-1.0.0;https://www.curseforge.com/projects/469647
+Summoning Rituals;summoningrituals-forge-1.20.1-2.0.7;https://www.curseforge.com/projects/671040
+SuperMartijn642's Config Lib;supermartijn642configlib-1.1.8-forge-mc1.20;https://www.curseforge.com/projects/438332
+SuperMartijn642's Core Lib;supermartijn642corelib-1.1.17-forge-mc1.20.1;https://www.curseforge.com/projects/454372
+TACT - Tiny Alex's Caves Tweaks;tact-1.1.3+1.20.1;https://www.curseforge.com/projects/926263
+Tameable Beasts;tameablebeasts-1.20.1-5.0;https://www.curseforge.com/projects/646425
+Tax' Village Architect;TaxVillageArchitect+M.1.20.1+ForM.1.1.1;https://www.curseforge.com/projects/914001
+Temporal API;temporalapi-1.6.2;https://www.curseforge.com/projects/970291
+TerraBlender (Forge);TerraBlender-forge-1.20.1-3.0.1.6;https://www.curseforge.com/projects/563928
+The Conjurer;the-conjurer-1.20.1-1.1.6;https://www.curseforge.com/projects/377798
+The Undergarden;The_Undergarden-1.20.1-0.8.14;https://www.curseforge.com/projects/379849
+THE UNDEAD REVAMPED;THEUNDEADREVAMPED_1.2_1.20.1[Society Monmento  Update];https://www.curseforge.com/projects/479710
+Tidal Towns;tidal;https://www.curseforge.com/projects/891880
+Toast Control;ToastControl-1.20.1-8.0.3;https://www.curseforge.com/projects/271740
+Too Fast;toofast-1.20-0.4.3.5;https://www.curseforge.com/projects/550678
+Torchmaster;torchmaster-20.1.6;https://www.curseforge.com/projects/254268
+ToroHealth Unofficial;ToroHealth-Unofficial-Forge-1.20.1-1.0.0;https://www.curseforge.com/projects/931345
+Transparent;transparent-forge-8.0.1+1.20.1;https://www.curseforge.com/projects/377582
+Twigs;Twigs-1.20.1-3.1.0;https://www.curseforge.com/projects/496913
+Undergarden Delight (A Farmer's Delight Add-on);undergarden_delight_1.0.0_forge_1.20.1;https://www.curseforge.com/projects/960662
+Village Spawn Point;villagespawnpoint-1.20.1-4.2;https://www.curseforge.com/projects/347381
+Villager Names;villagernames-1.20.1-7.3;https://www.curseforge.com/projects/345854
+Wares;wares-1.20.1-1.2.8;https://www.curseforge.com/projects/839158
+Xenon;xenon-0.3.11+mc1.20.1;https://www.curseforge.com/projects/564239
+YUNG's API (Forge);YungsApi-1.20-Forge-4.0.4;https://www.curseforge.com/projects/421850
+YUNG's Better Desert Temples (Forge);YungsBetterDesertTemples-1.20-Forge-3.0.3;https://www.curseforge.com/projects/631016
+YUNG's Better Dungeons (Forge);YungsBetterDungeons-1.20-Forge-4.0.4;https://www.curseforge.com/projects/510089
+YUNG's Better End Island (Forge);YungsBetterEndIsland-1.20-Forge-2.0.6;https://www.curseforge.com/projects/901344
+YUNG's Better Jungle Temples (Forge);YungsBetterJungleTemples-1.20-Forge-2.0.4;https://www.curseforge.com/projects/897669
+YUNG's Better Mineshafts (Forge);YungsBetterMineshafts-1.20-Forge-4.0.4;https://www.curseforge.com/projects/389665
+YUNG's Better Nether Fortresses (Forge);YungsBetterNetherFortresses-1.20-Forge-2.0.6;https://www.curseforge.com/projects/817651
+YUNG's Better Ocean Monuments (Forge);YungsBetterOceanMonuments-1.20-Forge-3.0.4;https://www.curseforge.com/projects/689238
+YUNG's Better Strongholds (Forge);YungsBetterStrongholds-1.20-Forge-4.0.3;https://www.curseforge.com/projects/465575
+YUNG's Extras (Forge);YungsExtras-1.20-Forge-4.0.3;https://www.curseforge.com/projects/480006
+Zeta;Zeta-1.0-16;https://www.curseforge.com/projects/968868
