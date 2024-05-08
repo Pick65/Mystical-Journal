@@ -1,0 +1,38 @@
+*.jar
+
+# Folders
+/mods/
+/logs/
+/local/
+/resourcepacks/
+/saves/
+/screenshots/
+/shaderpacks/
+/texturepacks/
+/server-resource-packs/
+/fancymenu_data/
+/crash-reports/
+/coremods/
+/modernfix/
+/kubejs/probe
+/kubejs/exported
+/.vscode
+
+# Random files
+/.qmenu_opened.marker
+/icon.png
+/options.txt
+/rhino.local.properties
+/servers.dat
+/servers.dat_old
+/usercache.json
+/usernamecache.json
+
+/config/jei/world/
+
+# Graphics stuff
+/config/Obscuria/Data/
+/config/paxi
+/config/fancymenu
+/config/drippyloadingscreen
+/config/xenon*
