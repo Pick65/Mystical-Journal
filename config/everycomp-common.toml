@@ -38,9 +38,6 @@
 			[general.types.wood_type.aether]
 				skyroot = true
 
-			[general.types.wood_type.born_in_chaos_v1]
-				scorched = true
-
 			[general.types.wood_type.undergarden]
 				smogstem = true
 				wigglewood = true
@@ -48,16 +45,6 @@
 
 			[general.types.wood_type.spawn]
 				rotten = true
-
-			[general.types.wood_type.blue_skies]
-				crystallized = true
-				bluebright = true
-				starlit = true
-				frostbright = true
-				lunar = true
-				dusk = true
-				maple = true
-				comet = true
 
 			[general.types.wood_type.deep_aether]
 				roseroot = true
@@ -110,17 +97,6 @@
 				orange_blossom = true
 				yellow_blossom = true
 				red_blossom = true
-
-			[general.types.leaves_type.blue_skies]
-				crystallized = true
-				crescent_fruit = true
-				bluebright = true
-				starlit = true
-				frostbright = true
-				lunar = true
-				dusk = true
-				maple = true
-				comet = true
 
 			[general.types.leaves_type.deep_aether]
 				roseroot = true
