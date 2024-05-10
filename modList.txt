@@ -120,7 +120,6 @@ Krypton Reforged;KryptonReforged-0.2.3;https://www.curseforge.com/projects/54939
 KubeJS Ars Nouveau;kubejsarsnouveau-1.2.2;https://www.curseforge.com/projects/833926
 KubeJS;kubejs-forge-2001.6.5-build.7;https://www.curseforge.com/projects/238086
 Storage Labels;labels-1.20-1.20.1;https://www.curseforge.com/projects/688223
-L_Ender 's Cataclysm;L_Enders_Cataclysm-1.99.2 -1.20.1;https://www.curseforge.com/projects/551586
 [Let's Do] Brewery;letsdo-brewery-forge-1.1.8;https://www.curseforge.com/projects/971636
 [Let's Do] Vinery;letsdo-vinery-forge-1.4.19;https://www.curseforge.com/projects/704465
 Lionfish API;lionfishapi-1.8;https://www.curseforge.com/projects/1001614
@@ -193,12 +192,10 @@ SuperMartijn642's Config Lib;supermartijn642configlib-1.1.8-forge-mc1.20;https:/
 SuperMartijn642's Core Lib;supermartijn642corelib-1.1.17-forge-mc1.20.1;https://www.curseforge.com/projects/454372
 TACT - Tiny Alex's Caves Tweaks;tact-1.1.3+1.20.1;https://www.curseforge.com/projects/926263
 Tameable Beasts;tameablebeasts-1.20.1-5.0;https://www.curseforge.com/projects/646425
-Tax' Village Architect;TaxVillageArchitect+M.1.20.1+ForM.1.1.1;https://www.curseforge.com/projects/914001
 Temporal API;temporalapi-1.6.2;https://www.curseforge.com/projects/970291
 TerraBlender (Forge);TerraBlender-forge-1.20.1-3.0.1.6;https://www.curseforge.com/projects/563928
 The Conjurer;the-conjurer-1.20.1-1.1.6;https://www.curseforge.com/projects/377798
 The Undergarden;The_Undergarden-1.20.1-0.8.14;https://www.curseforge.com/projects/379849
-Tidal Towns;tidal;https://www.curseforge.com/projects/891880
 Toast Control;ToastControl-1.20.1-8.0.3;https://www.curseforge.com/projects/271740
 Too Fast;toofast-1.20-0.4.3.5;https://www.curseforge.com/projects/550678
 Torchmaster;torchmaster-20.1.6;https://www.curseforge.com/projects/254268
@@ -206,6 +203,7 @@ ToroHealth Unofficial;ToroHealth-Unofficial-Forge-1.20.1-1.0.0;https://www.curse
 Transparent;transparent-forge-8.0.1+1.20.1;https://www.curseforge.com/projects/377582
 Twigs;Twigs-1.20.1-3.1.0;https://www.curseforge.com/projects/496913
 Undergarden Delight (A Farmer's Delight Add-on);undergarden_delight_1.0.0_forge_1.20.1;https://www.curseforge.com/projects/960662
+Village Spawn Point;villagespawnpoint-1.20.1-4.2;https://www.curseforge.com/projects/347381
 Villager Names;villagernames-1.20.1-7.3;https://www.curseforge.com/projects/345854
 Wares;wares-1.20.1-1.2.8;https://www.curseforge.com/projects/839158
 Xenon;xenon-0.3.11+mc1.20.1;https://www.curseforge.com/projects/564239
