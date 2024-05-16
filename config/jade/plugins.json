@@ -56,6 +56,9 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "exposure": {
+    "lightroom": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
