@@ -130,7 +130,6 @@ Manure;manure-1.20.1-3.3;https://www.curseforge.com/projects/699577
 Map Atlases [Forge];map_atlases-1.20-6.0.6;https://www.curseforge.com/projects/519759
 Max Health Fix;MaxHealthFix-Forge-1.20.1-12.0.2;https://www.curseforge.com/projects/492246
 Melody;melody_forge_1.0.3_MC_1.20.1-1.20.4;https://www.curseforge.com/projects/938643
-Mirabilis: Biome Overhaul;mirabilis-1.1.1-1.20.1;https://www.curseforge.com/projects/560808
 MmmMmmMmmMmm (Target Dummy);dummmmmmy-1.20-1.8.17b;https://www.curseforge.com/projects/225738
 Mo Glass;Mo-Glass-1.7.1-MC1.20.1-Forge;https://www.curseforge.com/projects/353426
 Mob Stage Reborn;mobgamestages-1.20.1-0.1;https://www.curseforge.com/projects/873965
@@ -140,12 +139,14 @@ ModernFix;modernfix-forge-5.17.0+mc1.20.1;https://www.curseforge.com/projects/79
 MoreJS;morejs-forge-1.20.1-0.10.0;https://www.curseforge.com/projects/666198
 Mystical Oak Tree;mysticaloaktree-1.20-1.11;https://www.curseforge.com/projects/691002
 In-game NBTEdit Reborn;nbtedit-forge-5.0.3;https://www.curseforge.com/projects/678133
+Neat;Neat-1.20-35-FORGE;https://www.curseforge.com/projects/238372
 Neko's Enchanted Books;NekosEnchantedBooks-1.20.1-1.8.0;https://www.curseforge.com/projects/441114
 NetherPortalFix;netherportalfix-forge-1.20-13.0.1;https://www.curseforge.com/projects/241160
 Nether's Delight;nethersdelight-1.20.1-4.0;https://www.curseforge.com/projects/496394
 Noisium;noisium-forge-2.0.3+mc1.20-1.20.1;https://www.curseforge.com/projects/930207
 Not Enough Animations;notenoughanimations-forge-1.7.3-mc1.20.1;https://www.curseforge.com/projects/433760
 Not Enough Crashes (Forge);notenoughcrashes-4.4.7+1.20.1-forge;https://www.curseforge.com/projects/442354
+Nyf's Spiders;nyfsspiders-forge-1.20.1-2.1.1;https://www.curseforge.com/projects/686058
 Aquamirae (Forge);aquamirae-6.API15;https://www.curseforge.com/projects/536254
 Obscure API (Forge);obscure_api-15;https://www.curseforge.com/projects/638417
 Oculus;oculus-mc1.20.1-1.7.0;https://www.curseforge.com/projects/581495
@@ -158,13 +159,12 @@ Player Stages;playerstages-1.20.1-V0.8.2;https://www.curseforge.com/projects/899
 Polymorph (Fabric/Forge/Quilt);polymorph-forge-0.49.3+1.20.1;https://www.curseforge.com/projects/388800
 ProbeJS;probejs-6.0.1-forge;https://www.curseforge.com/projects/585406
 Puzzles Lib;PuzzlesLib-v8.1.19-1.20.1-Forge;https://www.curseforge.com/projects/495476
-Quark;Quark-4.0-442;https://www.curseforge.com/projects/243121
+Quark;Quark-4.0-443;https://www.curseforge.com/projects/243121
 Quests Additions (Forge);questsadditions-1.4.3a;https://www.curseforge.com/projects/580129
 Radium Reforged;radium-mc1.20.1-0.12.3+git.50c5c33;https://www.curseforge.com/projects/570017
 Raided;Raided-1.20.1-0.1.4;https://www.curseforge.com/projects/580942
 Re-Dimension Stages;redimstages-1.0.0;https://www.curseforge.com/projects/972469
 Ready Player Fun [Forge / Fabric];readyplayerfun-1.20.1-2.8.0.1-FORGE;https://www.curseforge.com/projects/322036
-Realm RPG: Imps & Demons;realmrpg_imps_and_demons_0.9.0_forge_1.20.1;https://www.curseforge.com/projects/920662
 Rechiseled;rechiseled-1.1.6-forge-mc1.20;https://www.curseforge.com/projects/558998
 Recipe Essentials[Forge/Fabric];recipeessentials-1.20.1-3.4;https://www.curseforge.com/projects/907856
 Recipe Stages;RecipeStages-8.0.0.2;https://www.curseforge.com/projects/280554
@@ -174,7 +174,7 @@ RightClickHarvest;right-click-harvest-3.2.3+1.20.1-forge;https://www.curseforge.
 Scholar;scholar-1.20.1-1.0.0-forge;https://www.curseforge.com/projects/961802
 Searchables;Searchables-forge-1.20.1-1.0.3;https://www.curseforge.com/projects/858542
 SeasonHUD;seasonhud-forge-1.20.1-1.7.19;https://www.curseforge.com/projects/690971
-Moonlight Library;moonlight-1.20-2.11.18-forge;https://www.curseforge.com/projects/499980
+Moonlight Library;moonlight-1.20-2.11.19-forge;https://www.curseforge.com/projects/499980
 Serene Seasons Fix;sereneseasonfix-1.20.1-1.0.8;https://www.curseforge.com/projects/650658
 Serene Seasons;SereneSeasons-1.20.1-9.0.0.46;https://www.curseforge.com/projects/291874
 Small Ships [Fabric & Forge];smallships-forge-1.20.1-2.0.0-b1.2;https://www.curseforge.com/projects/450659
@@ -197,7 +197,6 @@ The Undergarden;The_Undergarden-1.20.1-0.8.14;https://www.curseforge.com/project
 Toast Control;ToastControl-1.20.1-8.0.3;https://www.curseforge.com/projects/271740
 Too Fast;toofast-1.20-0.4.3.5;https://www.curseforge.com/projects/550678
 Torchmaster;torchmaster-20.1.6;https://www.curseforge.com/projects/254268
-ToroHealth Unofficial;ToroHealth-Unofficial-Forge-1.20.1-1.0.0;https://www.curseforge.com/projects/931345
 Transparent;transparent-forge-8.0.1+1.20.1;https://www.curseforge.com/projects/377582
 Twigs;Twigs-1.20.1-3.1.0;https://www.curseforge.com/projects/496913
 Undergarden Delight (A Farmer's Delight Add-on);undergarden_delight_1.0.0_forge_1.20.1;https://www.curseforge.com/projects/960662
