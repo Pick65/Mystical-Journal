@@ -53,7 +53,6 @@ CraftTweaker;CraftTweaker-forge-1.20.1-14.0.38;https://www.curseforge.com/projec
 CreativeCore;CreativeCore_FORGE_v2.11.28_mc1.20.1;https://www.curseforge.com/projects/257814
 Cupboard;cupboard-1.20.1-2.6;https://www.curseforge.com/projects/326652
 Curios API (Forge/NeoForge);curios-forge-5.9.0+1.20.1;https://www.curseforge.com/projects/309927
-Deep Aether;deep_aether-1.20.1-1.0.3;https://www.curseforge.com/projects/852465
 Default Options;defaultoptions-forge-1.20-18.0.1;https://www.curseforge.com/projects/232131
 Dimensional Sync Fixes;dimensionalsycnfixes-1.20.1-0.0.1;https://www.curseforge.com/projects/829521
 [Let's Do] API;letsdo-API-forge-1.2.12-forge;https://www.curseforge.com/projects/864599
