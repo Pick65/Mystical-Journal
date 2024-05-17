@@ -5,7 +5,7 @@
 	enableFpsReducer = true
 	#Waiting time(sec) before reducing the FPS. (0:OFF)
 	#Range: 0 ~ 86400
-	waitingTime = 0
+	waitingTime = 2
 	#Max frame rate when there is no operation for the specified period of time.
 	#Range: 1 ~ 60
 	idleFps = 10
@@ -45,7 +45,7 @@
 	hudInfo = 4
 	#Profile (0:custom, 1:modest-eco, 2:eco, 3:cooling-low, 4:cooling-high)
 	#Range: 0 ~ 4
-	profile = 1
+	profile = 0
 
 #HUD offsets from reference positions at the screen edge.
 [hud_offset]
@@ -101,29 +101,8 @@
 	#Range: 0 ~ 2
 	centerLeft = 0
 
-#Extra options
-[extra]
-	#HUD color
-	hudColor = "f0f0f0"
-	#Reduced fps HUD color
-	hudReductionColor = "00f000"
-	#HUD color for FPS display in GUI screen(inventory and menu).
-	hudGuiModeColor = "b6ecff"
-	#HUD color for FPS display when the character is stationary.
-	hudNoActModeColor = "ceffd4"
-	#Allow player configuration mode.
-	allowPlayerConfig = true
-	#CPU usage type. (0:one processor basis, 1:all processors basis)
-	#Range: 0 ~ 1
-	cpuUsageType = 0
-	#Which thread's CPU usage should be calculated. (0:client thread only, 1:entire Minecraft process including server threads)
-	#Range: 0 ~ 1
-	cpuUsageThread = 0
-	#Permit to set IdleFPS=1.
-	allowOneFps = false
-
-#Debug options
-[debug]
-	#Enable debug log
-	debugLog = false
+#Player options
+[player]
+	#Use player config file.
+	usePlayerConfig = false
 

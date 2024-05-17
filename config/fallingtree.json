@@ -38,10 +38,10 @@
     "allowedTags": []
   },
   "enchantment": {
-    "registerEnchant": false,
+    "registerEnchant": true,
     "registerSpecificEnchant": false,
-    "hideEnchant": false,
-    "requireEnchantment": false
+    "hideEnchant": true,
+    "requireEnchantment": true
   },
   "sneakMode": "SNEAK_DISABLE",
   "breakInCreative": false,

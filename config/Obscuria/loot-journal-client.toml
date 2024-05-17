@@ -14,10 +14,10 @@
 	Separation = 3
 	#Duration (in seconds) of notifications display
 	#Range: 1.0 ~ 20.0
-	Duration = 6.0
+	Duration = 3.0
 	#Maximum amount of notifications displayed simultaneously
 	#Range: 1 ~ 64
-	DisplayCapacity = 12
+	DisplayCapacity = 8
 	#Maximum amount of queued notifications
 	#Range: 0 ~ 256
 	QueueCapacity = 24

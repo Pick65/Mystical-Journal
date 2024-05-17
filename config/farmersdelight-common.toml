@@ -6,10 +6,10 @@
 	#Should Novice and Apprentice Farmers buy this mod's crops? (May reduce chances of other trades appearing)
 	farmersBuyFDCrops = true
 	#Should the Wandering Trader sell some of this mod's items? (Currently includes crop seeds and onions)
-	wanderingTraderSellsFDItems = true
+	wanderingTraderSellsFDItems = false
 	#How often (in percentage) should Rich Soil succeed in boosting a plant's growth at each random tick? Set it to 0.0 to disable this.
 	#Range: 0.0 ~ 1.0
-	richSoilBoostChance = 0.2
+	richSoilBoostChance = 0.1
 	#How much of a bonus (in percentage) should each level of Fortune grant to Cutting Board chances? Set it to 0.0 to disable this.
 	#Range: 0.0 ~ 1.0
 	cuttingBoardFortuneBonus = 0.1
@@ -30,7 +30,7 @@
 #Recipe book
 [recipe_book]
 	#Should the Cooking Pot have a Recipe Book available on its interface?
-	enableRecipeBookCookingPot = true
+	enableRecipeBookCookingPot = false
 
 #Vanilla item overrides
 [overrides]
@@ -59,7 +59,7 @@
 	[world.wild_cabbages]
 		#Chance of generating clusters. Smaller value = more frequent.
 		#Range: > 0
-		chance = 30
+		chance = 2147483647
 
 	#Sea Beet generation
 	[world.wild_beetroots]
@@ -83,19 +83,19 @@
 	[world.wild_onions]
 		#Chance of generating clusters. Smaller value = more frequent.
 		#Range: > 0
-		chance = 120
+		chance = 2147483647
 
 	#Tomato Vines generation
 	[world.wild_tomatoes]
 		#Chance of generating clusters. Smaller value = more frequent.
 		#Range: > 0
-		chance = 100
+		chance = 2147483647
 
 	#Wild Rice generation
 	[world.wild_rice]
 		#Chance of generating clusters. Smaller value = more frequent.
 		#Range: > 0
-		chance = 20
+		chance = 2147483647
 
 	#Brown Mushroom Colony generation
 	[world.brown_mushroom_colonies]
@@ -103,7 +103,7 @@
 		genBrownMushroomColony = true
 		#Chance of generating clusters. Smaller value = more frequent.
 		#Range: > 0
-		chance = 15
+		chance = 50
 
 	#Red Mushroom Colony generation
 	[world.red_mushroom_colonies]
@@ -111,5 +111,5 @@
 		genRedMushroomColony = true
 		#Chance of generating clusters. Smaller value = more frequent.
 		#Range: > 0
-		chance = 15
+		chance = 60
 

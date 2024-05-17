@@ -2,10 +2,10 @@
 [storage]
 	# maximum slots that can be uploaded to a cloud chest. A vanilla chest has 27 slots.
 	#Range: > 27
-	max_cloud_slots = 4096
+	max_cloud_slots = 27
 	# maximum slots that can be uploaded to a static cloud chest. A vanilla chest has 27 slots.
 	#Range: > 27
-	max_static_cloud_slots = 4096
+	max_static_cloud_slots = 54
 	# how far from a player will cloud chests play an opening animation
 	#Range: 1.5 ~ 16.0
 	cloud_chest_open_distance = 6.0
@@ -14,7 +14,7 @@
 
 [village]
 	# whether the balloon salesman villager is enabled or not
-	balloon_salesman_villager = true
+	balloon_salesman_villager = false
 	# the weight of the balloon stand village structure spawning. set to zero to disable
 	#Range: 0 ~ 100
 	balloon_stand_spawn_weight = 2
@@ -56,7 +56,7 @@
 	sky_temple_min_seperation = 15
 	# maximum distance, in chunks, that sky temples spawn from eachother.
 	#Range: 2 ~ 4096
-	sky_temple_max_seperation = 24
+	sky_temple_max_seperation = 30
 	# minimum distance, in chunks, that big balloons spawn from eachother.
 	#Range: 1 ~ 4095
 	big_balloon_min_seperation = 16

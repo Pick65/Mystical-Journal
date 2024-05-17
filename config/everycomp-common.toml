@@ -38,13 +38,6 @@
 			[general.types.wood_type.spawn]
 				rotten = true
 
-			[general.types.wood_type.deep_aether]
-				roseroot = true
-				yagroot = true
-				cruderoot = true
-				conberry = true
-				sunroot = true
-
 			[general.types.wood_type.enlightened_end]
 				indigo = true
 				cerulean = true
@@ -83,16 +76,6 @@
 				smogstem = true
 				wigglewood = true
 				grongle = true
-
-			[general.types.leaves_type.deep_aether]
-				roseroot = true
-				flowering_roseroot = true
-				blue_roseroot = true
-				flowering_blue_roseroot = true
-				yagroot = true
-				cruderoot = true
-				conberry = true
-				sunroot = true
 
 			[general.types.leaves_type.alexscaves]
 				ancient = true

@@ -18,7 +18,7 @@
 	sandstorms = true
 	redsandstorms = true
 	blizzards = true
-	wind = true
+	wind = false
 
 [particle_amounts]
 	#Range: 0.0 ~ 1.7976931348623157E308
